@@ -1,0 +1,28 @@
+implements                                    menthods                                                                         应用场景
+
+ActionListener                                actionPerformed                                                               点击事件
+
+DocumentListener                          changedUpdate && removeUpdate && insertUpdate      文本区块
+
+ItemListener 		      itemStateChanged                                                           下拉框，选择框
+
+TreeSelectionListener                     valueChanged                                                                   树
+
+WindowListener                             窗口从非激活状态到激活状态触发windowActivated事件        七个方法
+			     窗口从激活状态到非激活状态触发windowDeactivated事件
+			     窗口正在被关闭时触发windowClosing事件
+			     窗口关闭时触发windowClosed
+			     窗口图标化时触发windowIconified
+			     窗口撤销图标化的时候触发windowDeiconified
+			     窗口打开时触发windowOpened
+
+FocusListener		     focusGained                                                                       任何组件
+			     focusLost                                                                       
+
+KeyListener		     keyPressed                                                                         任何组件
+			     keyTyped
+                                                     keyReleased
+Runnable                                      run                                                                                      任何类
+FilenameFilter                               accept                                                                                 常用于文件处理
+Serializable                                   没有方法                                                                               序列化
+HyperlinkListener                          hyperlinkUpdate                                                                  超链接处理的时候

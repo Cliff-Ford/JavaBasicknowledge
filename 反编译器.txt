@@ -1,0 +1,16 @@
+使用jdk提供的反编译器javap.exe可以将字节码反编译为源码，查看源码类中的public方法名字和public成员变量的名字
+分别实时操作以下命令
+javap
+
+javap java.awt.Button
+
+javap -public java.awt.Button
+
+javap -private java.awt.Button
+
+使用jdk提供的javadoc.exe可以制成源文件类结构的html格式文档
+
+javadoc Example.java
+
+使用javadoc时，也可以使用参数-d指定生成文档所在的目录
+如：javadoc -d F:\gxy\book Example.java

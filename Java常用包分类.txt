@@ -1,0 +1,13 @@
+java.applet 包含所有的实现Java applet的类
+
+java.awt    包含抽象窗口工具集中的图形、文本、窗口GUI类
+            绘制图形界面常用
+
+java.lang   包含所有的基本语言类
+	    常说的有Byte、Integer、Short、Long、Float、Double、Character类
+
+java.io     包含所有的输入输出类
+
+java.net    包含所有实现网络功能的类
+
+java.until  包含有用的数据类型类
