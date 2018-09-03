@@ -1,0 +1,20 @@
+                                                ^
+  符号:   类 BufferReader
+  位置: 类 FWindow
+注: 某些消息已经过简化; 请使用 -Xdiags:verbose 重新编译以获得完整输出
+2 个错误
+
+D:\onedrive\Java基础教程\输入输出流\使用文件对话框打开和保存文件>javac Main.java
+
+D:\onedrive\Java基础教程\输入输出流\使用文件对话框打开和保存文件>java Main
+java.io.FileNotFoundException: D:\onedrive\Java基础教程\输入输出流\使用文件对话框打开和保存文件\save.txt (系统找不到指定的文件。)
+
+D:\onedrive\Java基础教程\输入输出流\使用文件对话框打开和保存文件>javac Main.java
+
+D:\onedrive\Java基础教程\输入输出流\使用文件对话框打开和保存文件>java Main
+
+D:\onedrive\Java基础教程\输入输出流\使用文件对话框打开和保存文件>java Main
+
+D:\onedrive\Java基础教程\输入输出流\使用文件对话框打开和保存文件>javac Main.java
+
+D:\onedrive\Java基础教程\输入输出流\使用文件对话框打开和保存文件>java Main
